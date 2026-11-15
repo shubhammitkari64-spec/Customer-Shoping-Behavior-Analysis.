@@ -11,7 +11,7 @@ An end-to-end data analytics project focused on understanding customer shopping 
 
 The Customer Shopping Behavior Analysis project analyzes customer purchasing patterns and shopping preferences through an end-to-end data analytics workflow.
 
-The project involves:
+##The project involves:
 
 Loading and exploring the dataset using Python.
 Performing Exploratory Data Analysis (EDA).
